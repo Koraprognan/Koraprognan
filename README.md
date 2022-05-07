@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...hacking/programming etc
 - 🌱 I’m currently learning ...hacking/commandline
 - 💞️ I’m looking to collaborate on ... anyone can be friends to me
-- 📫 How to reach me ...i dont know
+- 📫 How to reach me ...in my telegram @b0pb0pb4be
 
 <!---
 Koraprognan/Koraprognan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
